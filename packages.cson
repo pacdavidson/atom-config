@@ -1,0 +1,12 @@
+packages: [
+  "atom-beautify"
+  "atomic-emacs"
+  "badass-react-snippets"
+  "indent-guide-improved"
+  "language-babel"
+  "minimap"
+  "minimap-cursorline"
+  "package-sync"
+  "print-code"
+  "redux-snippets"
+]

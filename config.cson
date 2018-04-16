@@ -1,0 +1,122 @@
+"*":
+  "atom-beautify":
+    apex:
+      disabled: true
+    arduino:
+      disabled: true
+    c:
+      disabled: true
+    cfml:
+      disabled: true
+    clj:
+      disabled: true
+    coffeescript:
+      disabled: true
+    cpp:
+      disabled: true
+    crystal:
+      disabled: true
+    cs:
+      disabled: true
+    d:
+      disabled: true
+    ejs:
+      disabled: true
+    elm:
+      disabled: true
+    erb:
+      disabled: true
+    erlang:
+      disabled: true
+    general:
+      _analyticsUserId: "79c043e1-d916-4347-8c8e-abea15e0d733"
+    latex:
+      disabled: true
+    lua:
+      disabled: true
+    marko:
+      disabled: true
+    mustache:
+      disabled: true
+    nunjucks:
+      disabled: true
+    objectivec:
+      disabled: true
+    ocaml:
+      disabled: true
+    pawn:
+      disabled: true
+    perl: {}
+    puppet:
+      disabled: true
+    riot:
+      disabled: true
+    ruby:
+      disabled: true
+    rust:
+      disabled: true
+    spacebars:
+      disabled: true
+    swig:
+      disabled: true
+    tss:
+      disabled: true
+    twig:
+      disabled: true
+    typescript:
+      disabled: true
+    ux:
+      disabled: true
+    vala:
+      disabled: true
+    visualforce:
+      disabled: true
+    vue:
+      disabled: true
+    xtemplate:
+      disabled: true
+  core:
+    allowPendingPaneItems: false
+    automaticallyUpdate: false
+    customFileTypes:
+      "source.ini": [
+        ".buckconfig"
+        ".flowconfig"
+        ".hgrc"
+      ]
+      "source.json": [
+        "BUCK.autodeps"
+      ]
+      "source.python": [
+        "BUCK"
+      ]
+    disabledPackages: [
+      "metrics"
+      "minimap-cursorline"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "one-light-ui"
+      "solarized-light-syntax"
+    ]
+  editor:
+    preferredLineLength: 100000
+    softWrap: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "cf875389-93f6-eeaf-91e6-d67ec647d784"
+  "git-plus":
+    general:
+      splitPane: "Right"
+  minimap:
+    plugins:
+      cursorline: true
+      cursorlineDecorationsZIndex: 0
+  nuclide:
+    "nuclide-home":
+      showHome: false
+  "package-sync":
+    createOnChange: true
+    forceOverwrite: true
+  welcome:
+    showOnStartup: false
