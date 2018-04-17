@@ -75,6 +75,10 @@
       disabled: true
     xtemplate:
       disabled: true
+  "block-cursor":
+    global:
+      blinkOn:
+        backgroundColor: "#f2ba60"
   core:
     allowPendingPaneItems: false
     automaticallyUpdate: false
@@ -120,7 +124,3 @@
     forceOverwrite: true
   welcome:
     showOnStartup: false
-  "block-cursor":
-    global:
-      blinkOn:
-        backgroundColor: "#f2ba60"
